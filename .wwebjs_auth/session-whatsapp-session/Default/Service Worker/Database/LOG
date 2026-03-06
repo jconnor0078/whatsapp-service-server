@@ -1,3 +1,2 @@
-2026/03/05-21:17:08.036 4348 Reusing MANIFEST C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Service Worker\Database/MANIFEST-000001
-2026/03/05-21:17:08.037 4348 Recovering log #3
-2026/03/05-21:17:08.037 4348 Reusing old log C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Service Worker\Database/000003.log 
+2026/03/05-21:32:18.859 7340 Creating DB C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Service Worker\Database since it was missing.
+2026/03/05-21:32:18.862 7340 Reusing MANIFEST C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Service Worker\Database/MANIFEST-000001

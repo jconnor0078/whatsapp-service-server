@@ -12,7 +12,8 @@ export async function initWhatsApp() {
   if (whatsappClient) return whatsappClient;
 
   whatsappClient = new Client({
-    authStrategy: new LocalAuth({ clientId: "whatsapp-session" }),
+    authStrategy: new LocalAuth({ clientId: "whatsapp-session",
+    dataPath: './.wwebjs_auth' }),
     puppeteer: { args: ['--no-sandbox',
       '--disable-setuid-sandbox',
       '--disable-dev-shm-usage'] }
