@@ -13,7 +13,9 @@ export async function initWhatsApp() {
 
   whatsappClient = new Client({
     authStrategy: new LocalAuth({ clientId: "whatsapp-session" }),
-    puppeteer: { args: ["--no-sandbox"] }
+    puppeteer: { args: ['--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-dev-shm-usage'] }
   });
 
   whatsappClient.on("qr", qr => {
