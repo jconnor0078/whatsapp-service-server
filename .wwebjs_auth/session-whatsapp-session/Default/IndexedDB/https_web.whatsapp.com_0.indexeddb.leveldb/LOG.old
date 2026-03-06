@@ -1,0 +1,29 @@
+2026/01/07-17:38:56.881 8164 Reusing MANIFEST C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/07-17:38:56.882 8164 Recovering log #310
+2026/01/07-17:38:56.895 8164 Reusing old log C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000310.log 
+2026/01/07-17:38:59.051 7e24 Level-0 table #323: started
+2026/01/07-17:38:59.057 7e24 Level-0 table #323: 307284 bytes OK
+2026/01/07-17:38:59.058 7e24 Delete type=0 #310
+2026/01/07-17:38:59.058 7e24 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/07-17:38:59.084 6d94 Compacting 1@1 + 9@2 files
+2026/01/07-17:38:59.144 6d94 Generated table #324@1: 53346 keys, 2226736 bytes
+2026/01/07-17:38:59.179 6d94 Generated table #325@1: 16500 keys, 2166056 bytes
+2026/01/07-17:38:59.194 6d94 Generated table #326@1: 1192 keys, 2138508 bytes
+2026/01/07-17:38:59.210 6d94 Generated table #327@1: 1315 keys, 2140951 bytes
+2026/01/07-17:38:59.242 6d94 Generated table #328@1: 14511 keys, 2196049 bytes
+2026/01/07-17:38:59.280 6d94 Generated table #329@1: 24403 keys, 2215924 bytes
+2026/01/07-17:38:59.313 6d94 Generated table #330@1: 50607 keys, 2183456 bytes
+2026/01/07-17:38:59.363 6d94 Generated table #331@1: 106969 keys, 2259197 bytes
+2026/01/07-17:38:59.389 6d94 Generated table #332@1: 55526 keys, 1187624 bytes
+2026/01/07-17:38:59.389 6d94 Compacted 1@1 + 9@2 files => 18714501 bytes
+2026/01/07-17:38:59.390 6d94 compacted to: files[ 0 0 9 0 0 0 0 ]
+2026/01/07-17:38:59.390 6d94 Delete type=2 #312
+2026/01/07-17:38:59.390 6d94 Delete type=2 #313
+2026/01/07-17:38:59.390 6d94 Delete type=2 #314
+2026/01/07-17:38:59.390 6d94 Delete type=2 #315
+2026/01/07-17:38:59.390 6d94 Delete type=2 #316
+2026/01/07-17:38:59.390 6d94 Delete type=2 #317
+2026/01/07-17:38:59.390 6d94 Delete type=2 #318
+2026/01/07-17:38:59.390 6d94 Delete type=2 #319
+2026/01/07-17:38:59.390 6d94 Delete type=2 #320
+2026/01/07-17:38:59.390 6d94 Delete type=2 #323
