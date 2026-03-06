@@ -25,7 +25,7 @@ createBullBoard({
 
 app.use("/admin/queues", serverAdapter.getRouter());
 
-app.listen(3000, () => {
-  console.log("Servidor en http://localhost:3000");
-  console.log("Bull Board en http://localhost:3000/admin/queues");
+app.listen(8888, () => {
+  console.log("Servidor en http://localhost:8888");
+  console.log("Bull Board en http://localhost:8888/admin/queues");
 });

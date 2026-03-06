@@ -1,3 +1,12 @@
-2026/01/07-17:38:56.333 2804 Reusing MANIFEST C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/01/07-17:38:56.339 2804 Recovering log #3
-2026/01/07-17:38:56.342 2804 Reusing old log C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Local Storage\leveldb/000003.log 
+2026/01/07-17:46:06.074 826c Reusing MANIFEST C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/07-17:46:06.078 826c Recovering log #3
+2026/01/07-17:46:06.080 826c Reusing old log C:\Users\jconn\node_projects\whatsapp-service-server\.wwebjs_auth\session-whatsapp-session\Default\Local Storage\leveldb/000003.log 
+2026/01/07-19:16:16.028 826c Level-0 table #5: started
+2026/01/07-19:16:16.032 826c Level-0 table #5: 19015 bytes OK
+2026/01/07-19:16:16.034 826c Delete type=0 #3
+2026/01/08-02:06:30.224 826c Level-0 table #7: started
+2026/01/08-02:06:30.228 826c Level-0 table #7: 15139 bytes OK
+2026/01/08-02:06:30.230 826c Delete type=0 #4
+2026/01/10-23:13:11.879 1384 Level-0 table #9: started
+2026/01/10-23:13:11.883 1384 Level-0 table #9: 15546 bytes OK
+2026/01/10-23:13:11.885 1384 Delete type=0 #6

@@ -3,8 +3,8 @@ import Redis from "ioredis";
 import { initWhatsApp, getWhatsAppClient } from "./whatsappClient";
 
 const redisConnection = new Redis({
-  host: "127.0.0.1",
-  port: 6380,
+  host: "redis-server",
+  port: 6379,
   maxRetriesPerRequest: null
 });
 
